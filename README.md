@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I’m Omar 👋
 
-<!--
-**omaralabdi/omaralabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student interested in Cybersecurity, Computer Networks, and Software Development.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Computer Science (Computer Networks and Security).
+* 🐍 Studied Python for 2 years in school.
+* 💻 Currently learning C++.
+* 🔐 Interested in cybersecurity and networking.
+* 🚀 Always looking to learn new technologies and improve my skills.
+
+🛠️ Programming Languages
+
+* Python: Basic knowledge (school experience).
+* C++: Beginner.
+
+🎯 My Goals
+
+* Improve my programming skills.
+* Build practical projects.
+* Learn more about cybersecurity.
+* Develop my knowledge of computer networks.
+
+📫 Connect With Me
+
+* GitHub: @omaralabdi
